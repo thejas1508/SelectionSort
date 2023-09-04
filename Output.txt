@@ -1,0 +1,14 @@
+#OUTPUT:
+Enter the List Size:5
+Enter a Number:8
+Enter a Number:6
+Enter a Number:2
+Enter a Number:5
+Enter a Number:7
+6
+[6, 8, 2, 5, 7]
+2
+[2, 6, 8, 5, 7]
+5
+[2, 5, 6, 8, 7] 
+ 
